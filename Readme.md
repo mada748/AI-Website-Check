@@ -1,4 +1,5 @@
 <img src="https://stonecode-assets.netlify.app/ai.png">
+
 # Ai Website Check
 this repo is a list of every website who uses (even partialy) ai in their website. 
 check <a href="CONTRIBUTING.md">this</a> for guidelines for contributing
