@@ -22,3 +22,10 @@ Well for this we have something called <p>The Modifier CheckList</p>
 - Create an issue of <a href="Readme.md">readme.md</a> where you correct the description and/or ranking
 - Wait (we will probably ask questions for this kinda of things)
   
+# Tips
+you know not everyone does the same thinng the same way and i wanted to jsut leave some tips for you
+
+- Include Source Code: Most Browsers have a source code feature so that could help to see if there is an ai builder or ai leterally included in source code
+- Be specific and straight: be specific and straight on why and beacuse you think the website is AI
+- not be quackity: Do not raid with Update.md  :)
+<p>This are only tips you do not need to follow them but just some tips..... BUT NOT THE QUACKITY ONE</p>  
