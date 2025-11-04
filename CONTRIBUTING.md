@@ -19,6 +19,6 @@ but there is one small problem with the adding website system:
 maybe some rating wasn't correct or some description was not enough.
 Well for this we have something called <p>The Modifier CheckList</p>
 - Get enough data for saying who the website was not proprely reanked or the description wasn't enough
-- Create the pull request of <a href="Readme.md">readme.md</a> where you correct the description and/or ranking
+- Create an issue of <a href="Readme.md">readme.md</a> where you correct the description and/or ranking
 - Wait (we will probably ask questions for this kinda of things)
   
