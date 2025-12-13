@@ -1,4 +1,6 @@
-<img src="https://stonecode-assets.netlify.app/ai.png">
+<div align="center" width="100%">
+  <img src="https://stonecode-assets.netlify.app/ai.png">
+</div>
 
 # Ai Website Check
 this repo is a list of every website who uses (even partialy) ai in their website. 
