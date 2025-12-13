@@ -19,8 +19,14 @@ check <a href="CONTRIBUTING.md">this</a> for guidelines for contributing
 
 
 
-|                             Website                                  | AI usage (1/10) |
-| -------                                                              | --------------- |  
-| <a href="https://chiefs-discord-ai.base44.app/">BotForge Ai</a>      | 10/10           |
-| <a href="https://chiefdit.base44.app/"> Chiefdit</a>                 | 10/10           |
-| <a href="https://ripperrevealed.onrender.com/">The Kareem Theory</a> | 7/10            |
+|                             Website                                      | AI usage (1/10) |
+| -------                                                                  | --------------- |  
+| <a href="https://chiefs-discord-ai.base44.app/">BotForge Ai</a>          | 10/10           |
+| <a href="https://chiefdit.base44.app/"> Chiefdit</a>                     | 10/10           |
+| <a href="https://ripperrevealed.onrender.com/">The Kareem Theory</a>     | 7/10            |
+| <a href="https://youngcoder45.netlify.app/">Aditya Verma - Portfolio</a> | 6/10            |
+
+
+# Why
+
+Aditya Verma   - Profolio: To much comments in JS,CSS,HTML,False things and corporate messages
