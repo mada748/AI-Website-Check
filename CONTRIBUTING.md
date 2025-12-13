@@ -1,9 +1,10 @@
 <div align="center" width="100%">
   <img src="https://stonecode-assets.netlify.app/ai.png">
+
+  # Ai Website Check
+  this repo is a list of every website who uses (even partialy) ai in their website. 
 </div>
 
-# Ai Website Check
-this repo is a list of every website who uses (even partialy) ai in their website. 
 # Contributing
 you know building an entire list of websites using ai, Not easy, Ensuring who every website is correct and has the correct score, Not Easy, Doing it alone, Impossible. So it is why at the center of this repo there is <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>
 
