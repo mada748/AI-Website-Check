@@ -26,7 +26,7 @@
 | -------                                                                  | --------------- |  
 | <a href="https://chiefs-discord-ai.base44.app/">BotForge Ai</a>          | 10/10           |
 | <a href="https://chiefdit.base44.app/"> Chiefdit</a>                     | 10/10           |
-| <a href="https://ripperrevealed.onrender.com/">The Kareem Theory</a>     | 7/10            |
+| <a href="https://ripperrevealed.onrender.com/">The Kareem Theory</a>     | 5/10            |
 | <a href="https://youngcoder45.netlify.app/">Aditya Verma - Portfolio</a> | 6/10            |
 
 
